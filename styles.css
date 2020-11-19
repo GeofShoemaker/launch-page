@@ -1,0 +1,12 @@
+.btn-primary:hover {
+  background-color:lightblue;
+  color: white;
+}
+hero-background-img {
+  background-image: url("guillermo-casales-Stbq_lkKc2c-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
